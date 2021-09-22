@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @another-eclipse
-- 👀 I’m interested in drawing (IG @another_eclipse), English language and literature, philosophy, and coding.
+- 👀 I’m interested in learning how to code!
 - 🌱 I’m currently learning basics of HTML, CSS, JS.
-- 💞️ I’m looking to collaborate on nothing yet as I'm still learning.
+- 💞️ I’m looking to ...
 - 📫 Reach me at aoe.illustrations@gmail.com.
 
 <!---
