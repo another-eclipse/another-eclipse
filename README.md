@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @another-eclipse
 - 👀 I’m interested in learning how to code!
-- 🌱 I’m currently learning basics of HTML, CSS, JS.
+- 🌱 I’m currently learning basics of PHP.
 - 💞️ I’m looking to ...
 - 📫 Reach me at aoe.illustrations@gmail.com.
 
