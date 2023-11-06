@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @another-eclipse
+- 👋 Hi, I’m Valentina
 - 👀 I’m interested in learning how to code!
-- 🌱 I’m currently learning basics of PHP.
-- 💞️ I’m looking to ...
+- 🌱 I’m currently learning basics of PHP, JS and web development.
+- 💞️ I’m looking to share my creations.
 - 📫 Reach me at aoe.illustrations@gmail.com.
 
 <!---
